@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/denversmith/Documents/Programming/jeopardy/src/actions'
+let g:netrw_dirhist_2='/Users/denversmith/Documents/Programming/react-portfolio'

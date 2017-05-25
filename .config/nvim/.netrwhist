@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/denver/Decisely/juno/app/models/employees/channel_admin'
+let g:netrw_dirhist_2='/Users/denver/.config/nvim/ftplugin'
